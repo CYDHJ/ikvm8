@@ -21,7 +21,7 @@ From [stackoverflow](https://stackoverflow.com/questions/8605122/how-do-i-resolv
 
 - Download ICSharpCode.SharpZipLib.dll (http://www.icsharpcode.net/opensource/sharpziplib/) and copy to the bin folder.
 
-- Download openjdk-8u45-b14 (http://www.frijters.net/openjdk-8u45-b14-stripped.zip) and unpack in the peer folder to ikvm.
+- Download openjdk-8u45-b14 (https://github.com/joegana/openjdk-8u45-b14-stripped) and unpack in the peer folder to ikvm.
 
 - In the root folder run nant.
 
